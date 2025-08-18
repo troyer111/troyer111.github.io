@@ -4,7 +4,7 @@
   "socialLinks": [
     {
       "type": "email",
-      "url": "mailto:alex.morgan@example.com",
+      "url": "chenyi.ma@outlook.com",
       "icon": "<i class=\"fas fa-envelope\"></i>"
     },
     {
@@ -47,7 +47,7 @@
       "type": "researchgate",
       "url": "#",
       "icon": "<i class=\"fab fa-researchgate\"></i>",
-      "target": "_blank"
+      "target": "https://www.researchgate.net/profile/Chenyi-Ma-3"
     }
   ],
   "profileImage": "assets/profile.jpg"
